@@ -1,0 +1,5 @@
+{"db": "eicu", "hierarchy": "trunc", "nodes": {"0": 857, "1": 352, "2": 91}, "non_nested": {"0": 0, "1": 0}, "written": "2026-11-08 14:59:43"}
+{"db": "eicu", "hierarchy": "official", "nodes": {"0": 857, "1": 352, "2": 98, "3": 19, "4": 1}, "non_nested": {"0": 0, "1": 0, "2": 0, "3": 0}, "categories": 352, "unplaced_categories": 0, "unplaced_list": [], "written": "2026-11-08 14:59:43"}
+{"db": "eicu", "hierarchy": "trunc_chapter", "nodes": {"0": 857, "1": 352, "2": 91, "3": 19, "4": 1}, "non_nested": {"0": 0, "1": 0, "2": 0, "3": 0}, "written": "2026-11-08 14:59:43"}
+{"db": "mimic", "hierarchy": "trunc", "nodes": {"0": 28583, "1": 2684, "2": 138}, "non_nested": {"0": 0, "1": 0}, "written": "2026-11-08 14:59:49"}
+{"db": "mimic", "hierarchy": "official", "nodes": {"0": 28583, "1": 2842, "2": 434, "3": 41, "4": 1}, "non_nested": {"0": 0, "1": 0, "2": 0, "3": 0}, "categories": 2842, "unplaced_categories": 0, "unplaced_list": [], "written": "2026-11-08 14:59:49"}

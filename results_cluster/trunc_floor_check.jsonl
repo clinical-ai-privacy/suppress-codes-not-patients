@@ -1,0 +1,4 @@
+{"db": "eicu", "hierarchy": "trunc", "L": 2, "m": 3, "K": 5, "refused_share": 0.4134744963277407, "refused": 49091, "rounds": 20, "runtime_s": 13.220502614974976, "written": "2026-11-08 14:59:57"}
+{"db": "eicu", "hierarchy": "trunc", "L": 2, "m": 2, "K": 5, "refused_share": 0.15568357927363385, "refused": 18484, "rounds": 12, "runtime_s": 14.447104454040527, "written": "2026-11-08 15:00:11"}
+{"db": "mimic", "hierarchy": "trunc", "L": 2, "m": 3, "K": 5, "refused_share": 0.5536542001245012, "refused": 123626, "rounds": 15, "runtime_s": 105.75946927070618, "written": "2026-11-08 15:01:35"}
+{"db": "mimic", "hierarchy": "trunc", "L": 2, "m": 2, "K": 5, "refused_share": 0.3115217362096995, "refused": 69560, "rounds": 43, "runtime_s": 289.5489363670349, "written": "2026-11-08 15:06:24"}

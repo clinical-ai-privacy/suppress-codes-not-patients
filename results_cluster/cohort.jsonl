@@ -1,0 +1,2 @@
+{"name": "eicu", "patients": 118728, "strata": 20, "smallest_stratum": 22, "codes_distinct": 857, "pairs": 476018, "median_codes": 3.0, "share_gt14": 0.03085203153426319, "max_codes_ge": 0, "written": "2026-11-08 14:59:43"}
+{"name": "mimic", "patients": 223291, "strata": 18, "smallest_stratum": 1512, "codes_distinct": 28583, "pairs": 4499867, "median_codes": 13.0, "share_gt14": 0.44467533398121734, "max_codes_ge": 1, "written": "2026-11-08 14:59:48"}
