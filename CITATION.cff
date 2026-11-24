@@ -19,6 +19,7 @@ authors:
     affiliation: 'Inserm UMR 1101 LaTIM, Brest, France'
 license: PolyForm-Noncommercial-1.0.0
 repository-code: 'https://github.com/clinical-ai-privacy/suppress-codes-not-patients'
+doi: 10.5281/zenodo.24496606
 abstract: >-
   The kmrel package, the scripts that produced every number, the aggregate
   results, the figure scripts and a checker that compares the tables of the

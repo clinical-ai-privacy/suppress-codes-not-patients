@@ -127,3 +127,7 @@ authors. The Roboto font in `figures/fonts/` keeps its own licence, the Apache L
 
 If you use the code or the results, please cite the paper and this repository. The citation data of
 the repository is in `CITATION.cff`; the reference of the paper will be added when it is published.
+
+Version 1.0, the state submitted with the paper, is archived at
+<https://doi.org/10.5281/zenodo.24496607>. The DOI <https://doi.org/10.5281/zenodo.24496606> always
+points to the latest archived version.
