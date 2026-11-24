@@ -1,0 +1,36 @@
+{
+  "title": "Code and aggregate results for \"Suppress Codes, Not Patients: What k^m-Anonymity Costs on Complete Diagnosis Histories\"",
+  "description": "<p>The <code>kmrel</code> package, the scripts that produced every number, the aggregate results, the figure scripts and a checker that compares the tables of the manuscript with the results, for a study of what k^m-anonymity costs on complete diagnosis histories in MIMIC-IV and eICU-CRD.</p><p>The archive holds no patient-level data. MIMIC-IV and eICU-CRD are distributed by PhysioNet under credentialed data use agreements that prohibit redistribution; counts between 1 and 9 are masked in the aggregate results.</p>",
+  "upload_type": "software",
+  "license": "polyform-noncommercial-1.0.0",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Zamroz, Pavlo",
+      "affiliation": "Lviv Polytechnic National University, Lviv, Ukraine",
+      "orcid": "0009-0008-8722-5769"
+    },
+    {
+      "name": "Kallas, Kassem",
+      "affiliation": "Inserm UMR 1101 LaTIM, Brest, France",
+      "orcid": "0000-0001-7689-4125"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Vaton, Sandrine",
+      "type": "Supervisor",
+      "affiliation": "IMT Atlantique, Brest, France",
+      "orcid": "0000-0001-8940-6004"
+    }
+  ],
+  "keywords": [
+    "data anonymization",
+    "k^m-anonymity",
+    "electronic health records",
+    "privacy",
+    "International Classification of Diseases",
+    "machine learning"
+  ],
+  "notes": "The code is under the PolyForm Noncommercial License 1.0.0. The aggregate results in results_cluster/, RESULTS.md and figures/data/ are under Creative Commons Attribution-NonCommercial 4.0 (LICENSE-results). The Roboto font in figures/fonts/ keeps the Apache License 2.0."
+}

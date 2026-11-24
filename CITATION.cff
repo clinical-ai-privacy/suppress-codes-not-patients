@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: >-
+  Code and aggregate results for "Suppress Codes, Not Patients: What
+  k^m-Anonymity Costs on Complete Diagnosis Histories"
+message: >-
+  If you use this software or the aggregate results it contains, please cite
+  both the software and the accompanying paper.
+type: software
+authors:
+  - given-names: Pavlo
+    family-names: Zamroz
+    orcid: 'https://orcid.org/0009-0008-8722-5769'
+    affiliation: >-
+      Department of Electronic Computing Machines, Lviv Polytechnic National
+      University, Lviv, Ukraine
+  - given-names: Kassem
+    family-names: Kallas
+    orcid: 'https://orcid.org/0000-0001-7689-4125'
+    affiliation: 'Inserm UMR 1101 LaTIM, Brest, France'
+license: PolyForm-Noncommercial-1.0.0
+repository-code: 'https://github.com/clinical-ai-privacy/suppress-codes-not-patients'
+abstract: >-
+  The kmrel package, the scripts that produced every number, the aggregate
+  results, the figure scripts and a checker that compares the tables of the
+  manuscript with the results, for a study of what k^m-anonymity costs on
+  complete diagnosis histories in MIMIC-IV and eICU-CRD. Contains no
+  patient-level data: both databases are distributed by PhysioNet under
+  credentialed data use agreements that prohibit redistribution, and counts
+  between 1 and 9 are masked in the aggregate results.
+keywords:
+  - data anonymization
+  - k^m-anonymity
+  - electronic health records
+  - privacy
+  - International Classification of Diseases
+  - machine learning

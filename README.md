@@ -122,3 +122,8 @@ results in `results_cluster/`, `RESULTS.md` and `figures/data/` under
 [Creative Commons Attribution-NonCommercial 4.0](LICENSE-results). Both allow research, teaching
 and other noncommercial use, and neither allows commercial use. For commercial use, contact the
 authors. The Roboto font in `figures/fonts/` keeps its own licence, the Apache License 2.0.
+
+## Citation
+
+If you use the code or the results, please cite the paper and this repository. The citation data of
+the repository is in `CITATION.cff`; the reference of the paper will be added when it is published.
