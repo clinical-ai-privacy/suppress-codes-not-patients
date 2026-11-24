@@ -30,7 +30,6 @@ abstract: >-
 keywords:
   - data anonymization
   - k^m-anonymity
+  - re-identification risk
+  - privacy-utility trade-off
   - electronic health records
-  - privacy
-  - International Classification of Diseases
-  - machine learning

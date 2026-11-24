@@ -27,10 +27,9 @@
   "keywords": [
     "data anonymization",
     "k^m-anonymity",
-    "electronic health records",
-    "privacy",
-    "International Classification of Diseases",
-    "machine learning"
+    "re-identification risk",
+    "privacy-utility trade-off",
+    "electronic health records"
   ],
   "notes": "The code is under the PolyForm Noncommercial License 1.0.0. The aggregate results in results_cluster/, RESULTS.md and figures/data/ are under Creative Commons Attribution-NonCommercial 4.0 (LICENSE-results). The Roboto font in figures/fonts/ keeps the Apache License 2.0."
 }
