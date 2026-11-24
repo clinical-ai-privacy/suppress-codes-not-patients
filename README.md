@@ -114,3 +114,11 @@ python3 -I verification/check_tables.py <manuscript.tex> results_cluster [--verb
 The checker reads the printed numbers from the LaTeX source and the values from `results_cluster/`,
 keeping the last written row of every configuration as `scripts/report.py` does. A printed number
 passes when it equals the result rounded to the printed number of decimals.
+
+## Licence
+
+The code is licensed under the [PolyForm Noncommercial License 1.0.0](LICENSE), and the aggregate
+results in `results_cluster/`, `RESULTS.md` and `figures/data/` under
+[Creative Commons Attribution-NonCommercial 4.0](LICENSE-results). Both allow research, teaching
+and other noncommercial use, and neither allows commercial use. For commercial use, contact the
+authors. The Roboto font in `figures/fonts/` keeps its own licence, the Apache License 2.0.
